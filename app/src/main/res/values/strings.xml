@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tugas Widget</string>
+    <string name="nama">Nama</string>
+    <string name="gender">Jenis Kelamin</string>
+    <string name="hobi">Hobi</string>
+    <string name="pria">PRIA</string>
+    <string name="wanita">WANITA</string>
+    <string name="coding">Coding</string>
+    <string name="reading">Membaca</string>
+    <string name="travelling">Travelling</string>
+    <string name="main_game">Main Game</string>
+</resources>
